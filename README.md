@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Knellyk
 - 👀 I’m interested in ... art and tech
-- 🌱 I’m currently learning ...how to code and how to create websites from scratch
-- 💞️ I’m looking to collaborate on ... learing to codes and devlope websites.
+- 🌱 I’m currently learning ...how to code and devlop applications
+- 💞️ I’m looking to collaborate on ... efficent ways to code.
 - 📫 How to reach me ... just send me a message.
 
 <!---
