@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Knellyk
-- 👀 I’m interested in ... art and tech
+- 👋 Hi, I’m nelly.
+- 👀 I’m interested in ... Tech and art.
 - 🌱 I’m currently learning ...how to code and devlop applications
 - 💞️ I’m looking to collaborate on ... efficent ways to code.
 - 📫 How to reach me ... just send me a message.
